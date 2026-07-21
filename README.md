@@ -26,7 +26,11 @@ Uczę się łączenia backendu z frotnendem w praktyce - REST API, komunikacja p
 
 ### Poza programowaniem:
 
-Lubię też pixelart i grafikę (stąd avatar 🪐) - czasem staram się coś stworzyć w Aseprite czy Blenderze.
+- Pixelart i grafika (stąd avatar 🪐) - czasem staram się coś stworzyć w Aseprite czy Blenderze.
+- Sprzęt komputerowy - składanie i naprawianie komputerów.
+- Animacje 3D - lubię przenosić pomysły w trójwymiar.
+- AI - z początku sceptyczny, teraz bardzo doceniłem jako narzędzie do nauki i powtarzalnych zadań.
+- Animacje 2D - w niedalekiej przyszłości będę próbował coś konkretniejszego, myślę że ciekawe hobby.
 
 ### Kontakt:
 
