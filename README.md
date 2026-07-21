@@ -23,7 +23,7 @@ Staram się tworzyć to, na co akurat wpadnę i wyda mi się pomocne, w ten też
 
 Uczę się łączenia backendu z frotnendem w praktyce - REST API, komunikacja przez fetch, komponenty i zarządzania stanem w Vue.
 
-### Poza kodem:
+### Poza programowaniem:
 Lubię też pixelart i grafikę (stąd avatar 🪐) - czasem staram się coś stworzyć w Aseprite czy Blenderze.
 
 ### Kontakt:
