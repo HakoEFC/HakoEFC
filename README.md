@@ -13,8 +13,9 @@ Staram się tworzyć to, na co akurat wpadnę i wyda mi się pomocne, w ten też
 - C# / ASP.NET Core (Web API, Entity Framework Core)
 - WPF / XAML
 - Vue.js (Composition API)
+- Java (Podstawy - plugin do Minecrafta)
 - Python (Podstawy - projekt asystenta AI)
-- Kotlin (podstawy - aplikacja mobilna na pracę inżynierską)
+- Kotlin (Podstawy - aplikacja mobilna na pracę inżynierską)
 - HTML5 / CSS / JavaScript
 - SQL / SQLite
 - Git / GitHub
