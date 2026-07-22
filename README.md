@@ -27,7 +27,7 @@ Uczę się łączenia backendu z frotnendem w praktyce - REST API, komunikacja p
 ### Przykładowe projekty:
 - ⚔️ [EQrpg](https://github.com/HakoEFC/vue-dotnet-items-app) - manager ekwipunku RPG, Vue.js + ASP.NET Core + SQLite
 - 🗺️ [DBD Map Overlay](https://github.com/HakoEFC) - nakładka WPF z mapami do Dead by Daylight, sterowana globalnymi hotkeyami (P/Invoke)
-- 🗂️ [Minecraft Pack Editor](https://github.com/HakoEFC) - narzędzie WPF do zarządzania plikami resource packów
+- 🗂️ [Minecraft Pack Editor](https://github.com/HakoEFC/minecraft-resourcepack-editor/tree/main) - narzędzie WPF do zarządzania plikami resource packów
 
 ### Poza programowaniem:
 
