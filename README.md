@@ -24,6 +24,11 @@ Staram się tworzyć to, na co akurat wpadnę i wyda mi się pomocne, w ten też
 
 Uczę się łączenia backendu z frotnendem w praktyce - REST API, komunikacja przez fetch, komponenty i zarządzania stanem w Vue.
 
+### Przykładowe projekty:
+- ⚔️ [EQrpg](https://github.com/HakoEFC/vue-dotnet-items-app) - manager ekwipunku RPG, Vue.js + ASP.NET Core + SQLite
+- 🗺️ [DBD Map Overlay](https://github.com/HakoEFC) - nakładka WPF z mapami do Dead by Daylight, sterowana globalnymi hotkeyami (P/Invoke)
+- 🗂️ [Minecraft Pack Editor](https://github.com/HakoEFC) - narzędzie WPF do zarządzania plikami resource packów
+
 ### Poza programowaniem:
 
 - Pixelart i grafika (stąd avatar 🪐) - czasem staram się coś stworzyć w Aseprite czy Blenderze.
